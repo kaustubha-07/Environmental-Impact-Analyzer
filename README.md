@@ -3,8 +3,6 @@
 **An AI-powered web application that evaluates the environmental impact of consumer products.**  
 Using advanced AI and sustainable metrics, this tool analyzes product data and generates an environmental footprint score based on key sustainability factors.
 
-![Environmental Impact Analyzer](https://github.com/yourusername/environmental-impact-analyzer/raw/main/public/screenshot.png)
-
 ---
 
 ## 🚀 Features
